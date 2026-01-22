@@ -5,7 +5,8 @@ Script Bash que comprueba los días restantes de los certificados de las página
 Utilización:
 
 1. Guarda las URLs en el archivo `ssl_check_list.txt`.
-2. Configura el script en el cron para que se ejecute automáticamente.
+2. Modifica el script para indicar tu correo electrónnico en la variable `EMAIL`.
+3. Configura el script en el cron para que se ejecute automáticamente.
 
 Configuración:
 
